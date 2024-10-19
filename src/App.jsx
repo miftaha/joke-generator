@@ -2,9 +2,9 @@ import Jokes from './components/Jokes'
 
 function App() {
   return (
-    <div>
+    <main className="bg-slate-800">
       <Jokes />
-    </div>
+    </main>
   )
 }
 
